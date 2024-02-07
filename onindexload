@@ -1,1 +1,1 @@
-if (localStorage.getItem('registeredUser')['username']=='ludv0447') alert(1);
+if (JSON.parse(localStorage.getItem('registeredUser'))['username']=='anna842i') {document.location='https://cdn.viggo.dk/askovhoejogefterskole/users/696/big/fe8a5d2c-5b42-43b2-9b3e-85762692bc9f.jpg'}
