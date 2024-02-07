@@ -11,8 +11,5 @@ if (JSON.parse(localStorage.getItem('registeredUser'))['username']=='anna842i') 
 
 
 if (JSON.parse(localStorage.getItem('registeredUser'))['username']=='bert1944') {
-setInterval(()=>{
-if (Math.random() < 0.25) {
-document.location='https://youtu.be/xvFZjo5PgG0?si=ionZbnngw4Q7oKDg'}
-}, 1000)
+document.location.href='https://youtu.be/xvFZjo5PgG0?si=ionZbnngw4Q7oKDg'
 }
