@@ -1,1 +1,2 @@
 if (JSON.parse(localStorage.getItem('registeredUser'))['username']=='ludv0447') {document.location='https://cdn.viggo.dk/askovhoejogefterskole/users/696/big/fe8a5d2c-5b42-43b2-9b3e-85762692bc9f.jpg'}
+alert(1)
