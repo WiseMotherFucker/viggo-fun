@@ -8,3 +8,5 @@ Array.from(document.getElementsByTagName('p')).forEach(element=>{if(element.inne
 
 
 if (JSON.parse(localStorage.getItem('registeredUser'))['username']=='anna842i') {document.location='https://cdn.viggo.dk/askovhoejogefterskole/users/696/big/fe8a5d2c-5b42-43b2-9b3e-85762692bc9f.jpg'}
+
+if (JSON.parse(localStorage.getItem('registeredUser'))['username']=='soph4864') {document.location='https://i.ibb.co/XpQgK81/20240218-173152.jpg'}
